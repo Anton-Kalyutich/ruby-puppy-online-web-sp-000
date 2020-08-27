@@ -20,4 +20,6 @@ class Dog
     @@all.clear
   end
   
+  def save
+  
 end
